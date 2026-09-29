@@ -1,0 +1,14 @@
+{
+  "name": "agent-customer-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "智能客服 Agent 系统：意图识别 + RAG 混合检索 + Function Calling 工具调用 + DFA 敏感词过滤 + 令牌桶限流",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
